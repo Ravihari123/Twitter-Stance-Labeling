@@ -5,4 +5,4 @@ This study aims to establish a performance baseline for GPT-4 as a social media 
 This work is currently under review and the preprint is available on 
 https://www.techrxiv.org/articles/preprint/GPT-4_as_a_Twitter_Data_Annotator_Unraveling_Its_Performance_on_a_Stance_Classification_Task/24143706
 
-
+The full dataset contains 533 records with class labels 0, 1, and 2 representing against, favor, and none respectively. For this study, we only used a sample of this dataset containing 355 records with complete inter-rater reliability agreement among 3 human annotators. 
